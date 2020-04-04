@@ -4,16 +4,16 @@ function add(a,b){
 }
 
 function subtract(a,b){
-  c = a-b
-  return c
+  a=-b
+  return a
 }
 
 function multiple(a,b){
-  c = a*b
-  return c
+  a=*b
+  return a
 }
 
 function divde(a,b){
-  c = a/b 
-  return c
+  a =/ b 
+  return a
 }
