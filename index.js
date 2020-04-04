@@ -8,12 +8,12 @@ function subtract(a,b){
   return a
 }
 
-function multiple(a,b){
+function multiply(a,b){
   a *= b
   return a
 }
 
-function divde(a,b){
+function divide(a,b){
   a /= b 
   return a
 }
